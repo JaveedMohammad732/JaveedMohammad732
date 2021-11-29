@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JaveedMohammad732
+- 👋 Hi, I’m JaveedMohammad732
 - 👀 I’m interested in web designing 
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me 
+
 you can reach to me at javeedmohammad718@gmail.com
 
 <!---
